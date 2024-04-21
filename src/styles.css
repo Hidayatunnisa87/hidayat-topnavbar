@@ -16,12 +16,18 @@ body {
 h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
-    color: #1C1678;
+    color: #69111134;
 }
 
 i {
     font-size: 3rem;
     color: #1e8cfa;
+}
+
+
+img {
+    height: 48px;
+    width: 150px;
 }
 
 nav {
@@ -42,6 +48,7 @@ nav {
     align-items: center;
     justify-content: space-between;
 }
+
 
 
 .menu {
@@ -80,7 +87,8 @@ a {
     font-family: sans-serif;
 }
 
-banner-div {
+
+.banner-div {
     margin-top: .7rem;
 }
 
